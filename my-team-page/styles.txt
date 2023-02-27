@@ -1,0 +1,56 @@
+The creative crew
+
+height: 47px;
+width: 278px;
+left: 12px;
+top: 71px;
+border-radius: nullpx;
+
+background: #000000;
+
+font-family: PT Serif;
+font-size: 36px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: -0.045em;
+text-align: left;
+
+
+
+
+Who we are
+
+height: 27px;
+width: 117px;
+left: 12px;
+top: 156px;
+border-radius: nullpx;
+
+background: #000000;
+
+
+font-family: Poppins;
+font-size: 18px;
+font-weight: 600;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+
+
+
+
+
+We are team of creatively diverse.  driven.  innovative individuals working in various locations from the world.
+
+
+height: 87px;
+width: 333px;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+
+
+
